@@ -18,7 +18,7 @@ _link_ https://github.com/aflupton/
 
 ##### Specs
 * _User inputs name and address data._
-* _Function collects data as an object, an appends as a list elenent._
+* _Function collects data as an object, and then appends as a list elenent._
 * _A click function then reveals the underlying address data of each name entry._
 ##### Known Bugs
 _So far there are no bugs_
